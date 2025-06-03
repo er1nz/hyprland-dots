@@ -1,0 +1,1 @@
+source "/home/er1nz/.deno/env.fish"
