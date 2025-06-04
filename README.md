@@ -12,6 +12,7 @@ This repository contains my personal Hyprland “dotfiles” (configuration file
 **What’s inside:**
 - `waybar/` — Custom Waybar modules and styling.
 - `sherlock` or `rofi/` — Sherlock launcher, rofi themes and scripts.
+- `matugen` or `pywal` - Color schemes.
 - `kitty/` — Terminal (Kitty) settings and color schemes.
 - `eww/` or `eww/**` — Eww widgets (if you use Eww for status bars/popups).
 - `scripts/` — Helper shell or Python scripts (e.g., screenshot helpers, launcher wrappers).
@@ -29,7 +30,8 @@ This repository contains my personal Hyprland “dotfiles” (configuration file
 Before using these files, ensure you have a working Hyprland setup and any of the following tools installed (depending on which configs you want to use):
 
 - **Hyprland** (≥ v1.x)  
-- **Ax-Shell** (if you want the status bar configs)  
+- **Ax-Shell** (if you want the status bar configs)
+- **Matugen** &/or **PyWal** (color schemes)
 - **Rofi** or **Sherlock** (for launchers, power/menu scripts)  
 - **Kitty** (if you use the provided `kitty.conf`)  
 - **Eww** (for any Eww widgets or popups)  
