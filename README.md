@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1f7778c4-da90-4ff8-b2f9-5345cb58e5b6)# Hyprland Dots (er1nz)
+# Hyprland Dots (er1nz)
 
 > A slightly messy collection of Hyprland configuration files and “dotfiles.”  
 > Use at your own risk—if you like it, feel free to grab whatever pieces you need.
