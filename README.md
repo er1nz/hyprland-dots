@@ -42,12 +42,3 @@ Before using these files, ensure you have a working Hyprland setup and any of th
 Feel free to ignore any subdirectory whose tools you don’t plan to use.
 
 ---
-
-## Installation / Usage
-
-Adjust paths and commands to your own liking.
-
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/er1nz/hyprland-dots.git ~/hyprland-dots
-   cd ~/hyprland-dots
