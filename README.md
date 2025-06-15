@@ -1,6 +1,6 @@
 # Hyprland Dots (er1nz)
 
-> A slightly messy collection of Hyprland configuration files and “dotfiles.”  
+> A slightly messy collection of my OLD Hyprland configuration files and “dotfiles”, switched to Niri the goat  
 > Use at your own risk—if you like it, feel free to grab whatever pieces you need.
 
 ---
