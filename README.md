@@ -1,13 +1,23 @@
-# Hyprland Dots (er1nz)
+![image](https://github.com/user-attachments/assets/1f7778c4-da90-4ff8-b2f9-5345cb58e5b6)# Hyprland Dots (er1nz)
 
 > A slightly messy collection of Hyprland configuration files and “dotfiles.”  
 > Use at your own risk—if you like it, feel free to grab whatever pieces you need.
 
 ---
-
 ## Overview
 
 This repository contains my personal Hyprland “dotfiles” (configuration files) for various tools and tiling/window‑manager setups. Admittedly, things here are a bit disorganized—some files date back months, some settings overlap, and you’ll likely find commented‐out bits and remnants of older experiments, you’re welcome to browse, cherry‑pick, or adapt anything.
+
+## SS
+![image](https://github.com/user-attachments/assets/b35a27e3-dc8b-4e41-8c12-d0cc758c12ba)
+![image](https://github.com/user-attachments/assets/41d5b328-ea1e-4397-b0ec-82aaabd2738f)
+![image](https://github.com/user-attachments/assets/2a06afd6-a47c-4623-b4af-3dac0d17c7c4)
+![image](https://github.com/user-attachments/assets/a2e1fdb1-46b0-4838-932f-f4522f7d7e81)
+![image](https://github.com/user-attachments/assets/4bf82ce9-e83d-4835-a977-dfbf5508da47)
+![image](https://github.com/user-attachments/assets/d16e4465-8c7e-4d75-8e8c-93343333e6ea)
+![image](https://github.com/user-attachments/assets/d263febe-a667-404a-942e-1564b55c77e7)
+
+
 
 **What’s inside:**
 - `waybar/` — Custom Waybar modules and styling.
